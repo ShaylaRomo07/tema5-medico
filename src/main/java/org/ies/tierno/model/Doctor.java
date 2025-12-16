@@ -61,5 +61,6 @@ public abstract class Doctor {
     }
 
     public abstract void showInfo();
+
     public abstract boolean isInHospital();
 }
